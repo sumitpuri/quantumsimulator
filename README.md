@@ -1,6 +1,6 @@
 # Quantum Simulator
 
-This [jupyter notebook]() implements the Quantum Simulator for below Quantum Gates.
+This [jupyter notebook](QuantumSimulator.ipynb) implements the Quantum Simulator for below Quantum Gates.
 
 Operator | Gate 
 ---|---
